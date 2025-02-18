@@ -90,7 +90,6 @@ task-manager/
 ### Task List View:
 
 
-
 ### Theme Selector:
 
 
